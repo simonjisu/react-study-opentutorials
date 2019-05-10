@@ -1,3 +1,18 @@
+# React-Study
+
+생활코딩의 [React 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)을 듣고 정리하는 Repository 입니다.
+
+* 정리된 블로그: [링크](https://www.notion.so/simonjisu/ddca3a6d25dd432cb1a29e6e6d373bdf?v=799891a4a8204fccbae1ea4cf7db03fc)
+
+## References:
+
+* [생활코딩 React 페이지](https://opentutorials.org/module/4058)
+* [생활코딩 React YouTube Playlist](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)
+
+---
+
+# 기타
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
