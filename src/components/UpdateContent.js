@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
-class CreateContent extends Component {
+class UpdateContent extends Component {
 	render() {
-		console.log("CreateContent render")
+		console.log("UpdateContent render")
 		return (
 			<article>
 				<h2>Create</h2>
-				<form action="/create_process" method="post"
+				<form action="/update_process" method="post"
 					onSubmit={function(e){
 						e.preventDefault();
 						this.props.onSubmit(
@@ -39,5 +39,4 @@ class CreateContent extends Component {
 	}
 }
 
-export default CreateContent
-
+export default UpdateContent
